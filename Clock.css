@@ -1,0 +1,45 @@
+#timedisplay {
+    text-align: center;
+            font-size: 30vh;
+            height:60vh;
+            width:100vw;
+            font-family: consolas, monospace;
+            color: white;
+            color: rgb(47, 255, 47);
+}
+p{
+    text-align:center;
+    font-size:5vh;
+    font-weight:bold;
+}
+body{
+    background-color:aquamarine;
+}
+#main {
+    height: 150px;
+    background-color: #000;
+    width: 100vw;
+    height:60vh;
+
+    border-radius: 20px;
+    margin-top:10vh;
+}
+
+#buttons {
+    text-align: center;
+}
+
+#buttons>button {
+    font-family: consolas, monospace;
+            background: #333333;
+            outline: 0;
+            border: 0;
+            font-size:5vh;
+            height: 7vh;
+            margin-top:1vh;
+            width: 20vw;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+
+}
